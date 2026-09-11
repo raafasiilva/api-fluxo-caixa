@@ -228,6 +228,7 @@ dotnet test test/FluxoCaixa.Teste/FluxoCaixa.Teste.csproj
 - [ ] Implementar versionamento de API
 - [ ] Adicionar tratamento de erros mais detalhado
 - [ ] Separ jobs em uma aplicação dedicada na execução e persistencia.
+- [ ] Implementar idempotencia para endpoints de criação de transações.
 
 ---
 
