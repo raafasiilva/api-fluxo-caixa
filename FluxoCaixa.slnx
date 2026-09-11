@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="src/FluxoCaixa.API/FluxoCaixa.API.csproj" Id="940f0df3-c6fd-40bd-aa16-feb6493bc2a6" />
+  <Project Path="src/FluxoCaixa.Dominio/FluxoCaixa.Dominio.csproj" Id="fad9d04f-62ef-4d62-a2f3-a5ef474ade9b" />
+  <Project Path="src/FluxoCaixa.Infraestrutura/FluxoCaixa.Infraestrutura.csproj" Id="bced8763-66aa-49d1-9e79-bc7b41ea515e" />
+  <Project Path="test/FluxoCaixa.Teste/FluxoCaixa.Teste.csproj" Id="e2f1799f-ff48-4119-bc7d-cd638763109e" />
+</Solution>
